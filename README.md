@@ -1,4 +1,4 @@
-![screenshot of this website](https://raw.githubusercontent.com/abhik-b/todoAbhikPWA/tree/master/public/images/websitess.png)
+![screenshot of this website](https://raw.githubusercontent.com/abhik-b/todoAbhikPWA/master/public/images/websitess.png)
 
 ## ABOUT THIS PROJECT
 
@@ -26,4 +26,4 @@
 
 # CHECK MY [WEBSITE](https://todopwa-b23f0.firebaseapp.com/) !!
 
-![PERFORMANCE 89 ACCESSIBILTY 92 SEO & BEST PRACTICES 100  PWA GREEN TICK ](https://raw.githubusercontent.com/abhik-b/todoAbhikPWA/tree/master/public/images/screenshot.png)
+![PERFORMANCE 89 ACCESSIBILTY 92 SEO & BEST PRACTICES 100  PWA GREEN TICK ](https://raw.githubusercontent.com/abhik-b/todoAbhikPWA/master/public/images/screenshot.png)
