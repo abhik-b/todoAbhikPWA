@@ -1,13 +1,45 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(16, 26, 26);
+}
+body.light {
+  background-color: ivory;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.card-panel.todo {
+  display: grid;
+  grid-template-columns: 5fr 5fr;
+  grid-template-areas: "details edit";
+  position: relative;
+}
+.todo-details {
+  grid-area: details;
+}
+.todo-edit {
+  grid-area: edit;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+.todo-edit i {
+  padding: 5px;
+}
+
+.todo-item {
+  font-weight: bold;
+  font-size: large;
+}
+form .input-field {
+  margin-top: 30px;
+}
+
+.btn-small.save-utton {
+  background: transparent;
+  border: thin 1px solid white;
+  font-weight: bolder;
 }
